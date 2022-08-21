@@ -1,5 +1,3 @@
-module github.com/go-zoox/safe
+module github.com/go-zoox/debounce
 
 go 1.18
-
-require github.com/go-zoox/errors v1.0.2
